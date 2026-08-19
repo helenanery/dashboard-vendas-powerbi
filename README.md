@@ -53,8 +53,7 @@ O projeto utiliza um modelo relacional com as seguintes tabelas:
 - Visualizações customizadas (Custom Visuals)
 
 ## Como abrir o projeto
-
-1. Baixe o arquivo [`Preparando_ambiente_3775_aula03.pbit`](./Preparando_ambiente_3775_aula03.pbit)
+1. Baixe o arquivo [`Gatito.pbix`](./Gatito.pbix)
 2. Abra com o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) (Windows)
 3. Ao abrir, o Power BI vai solicitar a conexão com a fonte de dados original
 
